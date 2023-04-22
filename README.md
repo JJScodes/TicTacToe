@@ -9,6 +9,7 @@ based on the current board setup.
 
 References:
 DJOamen - https://www.youtube.com/watch?v=3sc0HXEKn_0&ab_channel=DJOamen - player vs player tic tac toe tutorial
+
 MinMax Algorithm - https://www.geeksforgeeks.org/finding-optimal-move-in-tic-tac-toe-using-minimax-algorithm-in-game-theory/
 
 Enjoy!
